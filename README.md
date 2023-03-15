@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on RV SOCIAL MEDIA CHAT APP.<br>🌱 I’m currently learning typescript and socket io.
+🔭 I’m currently working on Video House project.<br>🌱 I’m currently learning pwa.
 
 
 ## 🌐 Socials:
