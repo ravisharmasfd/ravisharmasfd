@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on Video House project.<br>🌱 I’m currently learning pwa.
+🔭 I’m currently seeking for new role.<br>🌱 I’m currently learning pwa.
 
 
 ## 🌐 Socials:
